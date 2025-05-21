@@ -1,4 +1,4 @@
-# Snort++
+# Snort++ by Jonathan Tito
 
 Snort 3 is the next generation Snort IPS (Intrusion Prevention System).
 This file will show you what Snort++ has to offer and guide you through the
